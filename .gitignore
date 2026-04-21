@@ -7,7 +7,7 @@ protein_1.tif
 output/protein_1.tif
 
 # Output directories
-output/
+#output/
 input/
 
 # Python cache
